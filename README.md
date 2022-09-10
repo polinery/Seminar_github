@@ -1,4 +1,4 @@
-# Seminar_github
+# Время - вперед!
 
 ## Времена Года
 * Весна :seedling:
@@ -11,4 +11,4 @@
     * август
 * Осень :maple_leaf:
 * Зима :snowman:
-    * Новый Год
+    * Новый Год :evergreen_tree:
