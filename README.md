@@ -3,5 +3,8 @@
 ## Времена Года
 * Весна :seedling:
 * Лето :sunflower:
-* Осень :fallen_leaf:
+    * июнь
+    * июль
+    * август
+* Осень :maple_leaf:
 * Зима :foggy:
